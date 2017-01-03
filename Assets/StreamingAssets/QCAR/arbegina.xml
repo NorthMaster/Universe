@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="tuxing" size="300.000000 300.000000" />
+    <ImageTarget name="tianwangxing" size="300.000000 300.000000" />
+    <ImageTarget name="shuixing" size="300.000000 300.000000" />
+    <ImageTarget name="muxing" size="300.000000 300.000000" />
+    <ImageTarget name="jinxing" size="300.000000 300.000000" />
+    <ImageTarget name="huoxing" size="300.000000 300.000000" />
+    <ImageTarget name="haiwangxing" size="300.000000 300.000000" />
+    <ImageTarget name="diqiu" size="300.000000 300.000000" />
+    <ImageTarget name="sun" size="300.000000 300.000000" />
+  </Tracking>
+</QCARConfig>
